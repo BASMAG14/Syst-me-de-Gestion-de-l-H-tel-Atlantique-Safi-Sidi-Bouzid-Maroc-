@@ -1,4 +1,10 @@
 # Systeme-de-Gestion-de-l-Hotel-Atlantique-Safi-Sidi-Bouzid-Maroc
+
+
+##  Watch the demo video
+
+[![Watch the demo](https://img.youtube.com/vi/6igTLcWLhSk/0.jpg)](https://www.youtube.com/watch?v=6igTLcWLhSk)
+
   Ce projet est une application web développée en PHP et MySQL  Il vise à simplifier le processus de réservation, la gestion des chambres et l’administration des clients. 
 
 Description :
