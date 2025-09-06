@@ -1,0 +1,29 @@
+Projet : Système de Gestion de l’Hôtel Atlantique Safi (Sidi Bouzid, Maroc)
+
+Description :
+Ce projet est une application web développée en PHP et MySQL dédiée à la gestion des opérations de l’Hôtel Atlantique Safi. 
+Il vise à simplifier le processus de réservation, la gestion des chambres et l’administration des clients.
+
+Fonctionnalités principales :
+- Authentification sécurisée (clients et administrateurs).
+- Réservation en ligne avec sélection de la chambre et des dates.
+- Gestion des chambres (ajout, modification, disponibilité, tarification).
+- Suivi des réservations et génération d’historique.
+- Tableau de bord pour l’administration avec statistiques et rapports.
+- Interface conviviale et adaptée au style de l’hôtel.
+
+Technologies utilisées :
+- Backend : PHP 8, MySQL
+- Frontend : HTML5, CSS3, JavaScript, Bootstrap
+- Base de données : MySQL
+- Outils : XAMPP, GitHub, PhpMyAdmin
+
+Valeur ajoutée :
+Ce projet permet à l’Hôtel Atlantique Safi d’automatiser et de moderniser la gestion de ses activités. 
+Il améliore l’expérience client grâce à une réservation en ligne simple et rapide, et facilite le travail 
+des administrateurs grâce à des outils centralisés et intuitifs.
+
+
+user name : - Admin
+password  : - 1234
+
